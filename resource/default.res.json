@@ -146,7 +146,7 @@
 			"name": "card_0_png"
 		},
 		{
-			"url": "assets/cards/card_1.png",
+			"url": "assets/Cards/card_1.png",
 			"type": "image",
 			"name": "card_1_png"
 		},
@@ -156,17 +156,17 @@
 			"name": "card_2_png"
 		},
 		{
-			"url": "assets/cards/card_3.png",
+			"url": "assets/Cards/card_3.png",
 			"type": "image",
 			"name": "card_3_png"
 		},
 		{
-			"url": "assets/cards/card_4.png",
+			"url": "assets/Cards/card_4.png",
 			"type": "image",
 			"name": "card_4_png"
 		},
 		{
-			"url": "assets/cards/card_5.png",
+			"url": "assets/Cards/card_5.png",
 			"type": "image",
 			"name": "card_5_png"
 		}
