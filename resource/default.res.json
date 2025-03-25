@@ -141,7 +141,7 @@
 			"url": "config/description.json"
 		},
 		{
-			"url": "assets/cards/card_0.png",
+			"url": "assets/Cards/card_0.png",
 			"type": "image",
 			"name": "card_0_png"
 		},
@@ -151,7 +151,7 @@
 			"name": "card_1_png"
 		},
 		{
-			"url": "assets/cards/card_2.png",
+			"url": "assets/Cards/card_2.png",
 			"type": "image",
 			"name": "card_2_png"
 		},
